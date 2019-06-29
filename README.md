@@ -6,6 +6,7 @@ Installation:
 
 Start development:
   > yarn start
+  
   Open http://localhost:1234
 
 Build production:
