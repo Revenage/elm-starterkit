@@ -1,0 +1,12 @@
+{
+  "TEST": "this is test",
+  "ABOUT": "About",
+  "CONTACT": "Contacts",
+  "LOADING": "Loading",
+  "FAILURE": "Failure",
+  "SETTINGS": "Settings",
+  "HOME": "Home page",
+  "NOT.FOUND": "Page not found",
+  "BACK.HOME": "Back to home",
+  "BACK": "Back"
+}
